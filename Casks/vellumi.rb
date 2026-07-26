@@ -1,6 +1,6 @@
 cask "vellumi" do
-  version "0.5.0"
-  sha256 "d70698e502327d12629d63d0f3094accf449f874eacf2edce9c0629d41b43a8e"
+  version "0.5.1"
+  sha256 "51b285714d5134ffdf4f2d3a8295e6dc16cc816f936876fbc16a6852cc793627"
 
   url "https://github.com/SUDAcyber/Vellumi/releases/download/v#{version}/Vellumi-#{version}.dmg"
   name "Vellumi"
